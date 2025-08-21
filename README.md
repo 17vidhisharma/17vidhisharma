@@ -113,10 +113,6 @@ WEAPONS: GitHub Projects, Agile, Scrum
 RESULT: 10 user stories executed in a full sprint
 CASUALTIES: Disorganized backlogs
 
-yaml
-Copy
-Edit
-
 [🔗 GitHub Repo](https://github.com/17vidhisharma/agile-sprint-planning-ibm)
 
 ---
@@ -128,10 +124,6 @@ THREAT: Startup survival in Austin, TX
 WEAPONS: Business Analytics, SWOT, PESTLE
 RESULT: Break-even in 9 months, $4.3M median profit
 CASUALTIES: Inefficient operations
-
-yaml
-Copy
-Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/beer-simulation-project)
 
@@ -145,9 +137,6 @@ WEAPONS: SQL, Python, Data Storytelling
 RESULT: Seasonal peaks +21–48%, declines –21–31%
 CASUALTIES: Outdated segmentation models
 
-yaml
-Copy
-Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/Northwind-Database-Analytics-)
 
@@ -161,9 +150,6 @@ WEAPONS: SQL, Python, R, Power BI
 RESULT: Scientific justification for skincare budget
 SIDE EFFECT: Becoming a beauty data oracle
 
-yaml
-Copy
-Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/SKINCARE-ANALYSIS)
 
@@ -177,9 +163,6 @@ WEAPONS: Lean Analytics, KPI Design, Process Optimization
 RESULT: Workflow streamlined, costs reduced
 CASUALTIES: Inefficient processes
 
-less
-Copy
-Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/Stickley-Adhesives-case-study)
 
