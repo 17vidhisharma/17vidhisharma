@@ -105,6 +105,57 @@ SUPERPOWER: Making Excel cry tears of joy
 
 <div align="center">
 
+### 🌀 OPERATION: AGILE SPRINT SIMULATION
+
+STATUS: ████████████████████████████████ COMPLETED
+THREAT: Chaotic development cycles
+WEAPONS: GitHub Projects, Agile, Scrum
+RESULT: 10 user stories executed in a full sprint
+CASUALTIES: Disorganized backlogs
+[🔗 GitHub Repo](https://github.com/17vidhisharma/agile-sprint-planning-ibm)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍺 OPERATION: CRAFT BEER SIMULATION
+
+STATUS: ████████████████████████████████ COMPLETED
+THREAT: Startup survival in Austin, TX
+WEAPONS: Business Analytics, SWOT, PESTLE
+RESULT: Break-even in 9 months, $4.3M median profit
+CASUALTIES: Inefficient operations
+
+yaml
+Copy
+Edit
+
+[🔗 GitHub Repo](https://github.com/17vidhisharma/beer-simulation-project)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 OPERATION: NORTHWIND DATABASE
+
+STATUS: ████████████████████████████████ COMPLETED
+THREAT: Hidden sales patterns
+WEAPONS: SQL, Python, Data Storytelling
+RESULT: Seasonal peaks +21–48%, declines –21–31%
+CASUALTIES: Outdated segmentation models
+
+
+[🔗 GitHub Repo](https://github.com/17vidhisharma/Northwind-Database-Analytics-)
+
+</div>
+
+---
+
+<div align="center">
 ### 🎯 OPERATION: NEW YORK REAL ESTATE
 
 ```
