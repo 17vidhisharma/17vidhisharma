@@ -112,13 +112,14 @@ THREAT: Chaotic development cycles
 WEAPONS: GitHub Projects, Agile, Scrum
 RESULT: 10 user stories executed in a full sprint
 CASUALTIES: Disorganized backlogs
+
+yaml
+Copy
+Edit
+
 [🔗 GitHub Repo](https://github.com/17vidhisharma/agile-sprint-planning-ibm)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 🍺 OPERATION: CRAFT BEER SIMULATION
 
@@ -134,11 +135,7 @@ Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/beer-simulation-project)
 
-</div>
-
 ---
-
-<div align="center">
 
 ### 📊 OPERATION: NORTHWIND DATABASE
 
@@ -148,59 +145,46 @@ WEAPONS: SQL, Python, Data Storytelling
 RESULT: Seasonal peaks +21–48%, declines –21–31%
 CASUALTIES: Outdated segmentation models
 
+yaml
+Copy
+Edit
 
 [🔗 GitHub Repo](https://github.com/17vidhisharma/Northwind-Database-Analytics-)
 
-</div>
-
 ---
-
-<div align="center">
-### 🎯 OPERATION: NEW YORK REAL ESTATE
-
-```
-STATUS: ████████████████████████████████ COMPLETED
-THREAT: Housing market predictions
-WEAPONS: R, Time Series Analysis, Statistical Modeling
-RESULT: Market trends predicted with lethal accuracy
-CASUALTIES: Outdated pricing models
-```
-
-</div>
-
----
-
-<div align="center">
 
 ### 💄 CLASSIFIED: SKINCARE INTELLIGENCE
 
-```
 STATUS: ████████████████████▓▓▓▓▓▓▓▓▓▓▓▓ IN PROGRESS
 THREAT: Unoptimized beauty spending
-WEAPONS: Python, Power BI, Consumer Psychology
+WEAPONS: SQL, Python, R, Power BI
 RESULT: Scientific justification for skincare budget
 SIDE EFFECT: Becoming a beauty data oracle
-```
+
+yaml
+Copy
+Edit
+
+[🔗 GitHub Repo](https://github.com/17vidhisharma/SKINCARE-ANALYSIS)
+
+---
+
+### 🏭 OPERATION: STICKLEY ADHESIVES CASE STUDY
+
+STATUS: ████████████████████████████████ COMPLETED
+THREAT: Operational bottlenecks
+WEAPONS: Lean Analytics, KPI Design, Process Optimization
+RESULT: Workflow streamlined, costs reduced
+CASUALTIES: Inefficient processes
+
+less
+Copy
+Edit
+
+[🔗 GitHub Repo](https://github.com/17vidhisharma/Stickley-Adhesives-case-study)
 
 </div>
 
----
-
-<div align="center">
-
-### 🤖 OPERATION: AI EMPLOYMENT WARFARE
-
-```
-STATUS: ████████████████████████▓▓▓▓▓▓▓▓ DEPLOYING
-THREAT: Job market uncertainty
-WEAPONS: R, AWS EC2, Apache Spark
-MISSION: Separate AI hype from reality
-DEPLOYMENT: AWS (because data deserves a stage)
-```
-
-</div>
-
----
 
 ## 📊 BATTLE STATISTICS
 
