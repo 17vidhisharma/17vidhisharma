@@ -170,15 +170,6 @@ WARNING: Side effects include clean dashboards and profitable insights
 
 <div align="center">
 
-### ⚠️ FINAL WARNING ⚠️
-
-**IF YOU'VE MADE IT THIS FAR, YOU'RE EITHER:**
-- A) Genuinely impressed
-- B) Procrastinating 
-- C) Planning world data domination
-
-**WHATEVER THE REASON... STAR THIS REPO OR FACE THE CONSEQUENCES** ⭐
-
 ![Visitor Counter](https://komarev.com/ghpvc/?username=VidhiSharma2000&color=red&style=for-the-badge&label=AGENTS+DETECTED)
 
 </div>
